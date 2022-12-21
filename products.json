@@ -1,0 +1,71 @@
+[
+  {
+    "name": "iphone",
+    "company": "apple",
+    "price": 6000000,
+    "featured": true
+  },
+  {
+    "name": "iphone10",
+    "company": "apple",
+    "price": 6000000,
+    "featured": true
+  },
+  {
+    "name": "samsung",
+    "company": "samsung",
+    "price": 5000000
+  },
+  {
+    "name": "DellSeries",
+    "company": "dell",
+    "price": 600000
+  },
+  {
+    "name": "Nokia420",
+    "company": "nokia",
+    "price": 12599
+  },
+  {
+    "name": "MacPc",
+    "company": "apple",
+    "price": 4000099
+  },
+  {
+    "name": "MacbookPro",
+    "company": "apple",
+    "price": 42999
+  },
+  {
+    "name": "Asusgseries",
+    "company": "asus",
+    "price": 23999
+  },
+  {
+    "name": "Accessories",
+    "price": 1099999,
+    "company": "lenova",
+    "featured": true
+  },
+  {
+    "name": "Iwatch",
+    "price": 39999,
+    "company": "apple"
+  },
+  {
+    "name": "userneed",
+    "company": "apple",
+    "price": 300099
+  },
+  {
+    "name": "rolexpremium",
+    "company": "rolex",
+    "price": 999999
+  },
+  {
+    "name": "galaxyw20",
+    "price": 311999,
+    "company": "samsung",
+    "featured": true
+  }
+]
